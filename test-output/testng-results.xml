@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32679" started-at="2021-04-11T12:15:25Z" finished-at="2021-04-11T12:15:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32679" started-at="2021-04-11T12:15:25Z" finished-at="2021-04-11T12:15:58Z">
+      <class name="Projects.seleniumTest.TestRegistration">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="setup" is-config="true" duration-ms="6145" started-at="2021-04-11T17:45:25Z" finished-at="2021-04-11T17:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="userDetails" duration-ms="5156" started-at="2021-04-11T17:45:32Z" data-provider="test1" finished-at="2021-04-11T17:45:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prashant]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thorat]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Married]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Cricket]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7/22/91]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2568952145]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[pthorat]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[pthorat@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userDetails -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="closebrowser" is-config="true" duration-ms="4181" started-at="2021-04-11T17:45:37Z" finished-at="2021-04-11T17:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="setup" is-config="true" duration-ms="7201" started-at="2021-04-11T17:45:41Z" finished-at="2021-04-11T17:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="userDetails" duration-ms="5145" started-at="2021-04-11T17:45:48Z" data-provider="test1" finished-at="2021-04-11T17:45:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[surabhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thorat]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Single]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dance]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9/15/93]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7854125695]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[sthorat]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[sthorat@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userDetails -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="closebrowser" is-config="true" duration-ms="4187" started-at="2021-04-11T17:45:53Z" finished-at="2021-04-11T17:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Projects.seleniumTest.TestRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
