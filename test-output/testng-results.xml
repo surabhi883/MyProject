@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32679" started-at="2021-04-11T12:15:25Z" finished-at="2021-04-11T12:15:58Z">
+  <suite name="Default suite" duration-ms="24973" started-at="2021-04-13T15:08:12Z" finished-at="2021-04-13T15:08:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32679" started-at="2021-04-11T12:15:25Z" finished-at="2021-04-11T12:15:58Z">
+    <test name="Default test" duration-ms="24973" started-at="2021-04-13T15:08:12Z" finished-at="2021-04-13T15:08:37Z">
       <class name="Projects.seleniumTest.TestRegistration">
-        <test-method status="PASS" signature="setup()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="setup" is-config="true" duration-ms="6145" started-at="2021-04-11T17:45:25Z" finished-at="2021-04-11T17:45:32Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="setup" is-config="true" duration-ms="13832" started-at="2021-04-13T20:38:13Z" finished-at="2021-04-13T20:38:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="userDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="userDetails" duration-ms="5156" started-at="2021-04-11T17:45:32Z" data-provider="test1" finished-at="2021-04-11T17:45:37Z">
+        <test-method status="PASS" signature="userDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="userDetails" duration-ms="1275" started-at="2021-04-13T20:38:26Z" data-provider="test1" finished-at="2021-04-13T20:38:28Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[prashant]]>
+                <![CDATA[xyz]]>
               </value>
             </param>
             <param index="1">
@@ -62,19 +62,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userDetails -->
-        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="closebrowser" is-config="true" duration-ms="4181" started-at="2021-04-11T17:45:37Z" finished-at="2021-04-11T17:45:41Z">
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="closebrowser" is-config="true" duration-ms="0" started-at="2021-04-13T20:38:28Z" finished-at="2021-04-13T20:38:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="setup" is-config="true" duration-ms="7201" started-at="2021-04-11T17:45:41Z" finished-at="2021-04-11T17:45:48Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="setup" is-config="true" duration-ms="8548" started-at="2021-04-13T20:38:28Z" finished-at="2021-04-13T20:38:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="userDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="userDetails" duration-ms="5145" started-at="2021-04-11T17:45:48Z" data-provider="test1" finished-at="2021-04-11T17:45:53Z">
+        <test-method status="PASS" signature="userDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="userDetails" duration-ms="606" started-at="2021-04-13T20:38:36Z" data-provider="test1" finished-at="2021-04-13T20:38:37Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[surabhi]]>
+                <![CDATA[ABC]]>
               </value>
             </param>
             <param index="1">
@@ -121,7 +121,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userDetails -->
-        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="closebrowser" is-config="true" duration-ms="4187" started-at="2021-04-11T17:45:53Z" finished-at="2021-04-11T17:45:57Z">
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Projects.seleniumTest.TestRegistration@4cc0edeb]" name="closebrowser" is-config="true" duration-ms="1" started-at="2021-04-13T20:38:37Z" finished-at="2021-04-13T20:38:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->

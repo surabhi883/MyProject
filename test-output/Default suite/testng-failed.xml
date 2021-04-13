@@ -6,7 +6,6 @@
       <class name="Projects.seleniumTest.TestRegistration">
         <methods>
           <include name="userDetails"/>
-          <include name="closebrowser"/>
           <include name="setup"/>
         </methods>
       </class> <!-- Projects.seleniumTest.TestRegistration -->
